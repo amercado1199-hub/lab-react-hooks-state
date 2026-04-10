@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.dark {
+background: #111;
+color: white;
+min-height: 100vh;
+}
+
+.light {
+background: white;
+color: black;
+min-height: 100vh;
+}
